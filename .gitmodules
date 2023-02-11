@@ -1,3 +1,7 @@
+[submodule "users/lttb"]
+	path = users/lttb
+	url = git@github.com:lttb/qmk-config
+    branch = main
 [submodule "lib/chibios"]
 	path = lib/chibios
 	url = https://github.com/qmk/ChibiOS
